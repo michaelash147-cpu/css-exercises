@@ -3,5 +3,8 @@
 .pink {
     background-color: rgb(243,165,166);
     color: black;
-    
+}
+
+.bigger {
+    font-size: 25px;
 }
