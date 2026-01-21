@@ -3,18 +3,22 @@
 .pink {
     background-color: rgb(243,165,166);
     color: black;
+    font-family: arial;
+    font-size: 20px;
 }
 
 .bigger {
-    font-size: 25px;
+    font-size: 30px;
 }
 
 #biggest {
     background-color: #ffffff;
     color: #224AFB;
-    font-size: 35px;
+    font-size: 40px;
+    font-family: "Times New Roman", serif;
 }
 
 #green {
     background-color: #7AF280;
+    font-weight: 700;
 }
