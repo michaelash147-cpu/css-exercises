@@ -8,3 +8,13 @@
 .bigger {
     font-size: 25px;
 }
+
+#biggest {
+    background-color: #ffffff;
+    color: #224AFB;
+    font-size: 35px;
+}
+
+#green {
+    background-color: #7AF280;
+}
