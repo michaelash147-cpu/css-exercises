@@ -18,12 +18,12 @@ body {
 
 .left {
   display: flex;
-  gap: 8px;
+  gap: 16px;
 }
 
 .right {
   display: flex;
-  gap: 8px;
+  gap: 16px;
 }
 
 .profile-image {
