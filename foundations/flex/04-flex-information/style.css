@@ -5,10 +5,12 @@ body {
 .content {
   display: flex;
   gap: 52px;
+  justify-content: center;
 }
 
 .plant {
   text-align: center;
+  max-width: 200px;
 }
 
 img {
