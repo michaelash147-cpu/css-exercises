@@ -24,6 +24,10 @@ body {
 
 .container {
   display: flex;
+  
+}
+
+.upper {
   flex-direction: column;
 }
 
