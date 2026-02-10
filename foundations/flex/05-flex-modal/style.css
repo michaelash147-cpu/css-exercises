@@ -22,6 +22,12 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
 }
 
+.container.upper {
+  display: flex;
+}
+
+
+
 .icon {
   color: royalblue;
   font-size: 26px;
