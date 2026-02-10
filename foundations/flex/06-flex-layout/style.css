@@ -13,7 +13,6 @@ body {
 .header, .footer {
   display: flex;
   justify-content: space-between;
-  
 }
 
 .content {
@@ -24,6 +23,7 @@ ul {
   list-style: none;
   display: flex;
   gap: 15px;
+  padding: 0 25px;
 }
 
 a {
