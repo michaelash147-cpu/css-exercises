@@ -9,8 +9,16 @@ body {
   flex-direction: column;
 }
 
+.header, .footer {
+  display: flex;
+  justify-content: space-between;
+  
+}
+
 ul {
   list-style: none;
+  display: flex;
+  gap: 15px;
 }
 
 a {
