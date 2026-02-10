@@ -35,6 +35,10 @@ body {
   gap: 10px;
 }
 
+.lower {
+  gap: 5px;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
