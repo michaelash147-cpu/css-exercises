@@ -12,6 +12,10 @@ body {
   color: white;
 }
 
+.container.main {
+  display: flex;
+}
+
 .footer {
   height: 72px;
   background: #eee;
