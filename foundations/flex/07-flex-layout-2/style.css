@@ -25,6 +25,8 @@ body {
 .cards {
   display: flex;
   flex-wrap: wrap;
+  padding: 48px;
+  gap: 16px;
 }
 
 .footer {
@@ -48,5 +50,4 @@ body {
   flex-grow: 1;
   flex-shrink: 0;
   flex-basis: auto;
-  padding: 25px;
 }
