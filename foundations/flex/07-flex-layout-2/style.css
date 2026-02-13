@@ -12,8 +12,10 @@ body {
   color: white;
 }
 
-.container.main {
+.main {
   display: flex;
+  flex-grow: 2;
+  background: pink;
 }
 
 .footer {
