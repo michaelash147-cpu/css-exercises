@@ -12,6 +12,9 @@ body {
   color: white;
   font-size: 32px;
   font-weight: 300;
+  display: flex;
+  align-items: center;
+  padding-left: 16px;
 }
 
 .footer {
