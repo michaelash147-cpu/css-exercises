@@ -12,12 +12,6 @@ body {
   color: white;
 }
 
-.main {
-  display: flex;
-  flex-grow: 2;
-  background: pink;
-}
-
 .footer {
   height: 72px;
   background: #eee;
